@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: InnerFlame_demo
+  m_Shader: {fileID: -6465566751694194690, guid: 8f61fd2aa456e8148ba1aae19f8aba8d, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors:
+    - _BaseColor: {r: 1.9999998, g: 1.9895285, b: 1.9790574, a: 0}
+    - _FresnelColor: {r: 6.1463985, g: 3.1961193, b: 0.9567508, a: 0}
+  m_BuildTextureStacks: []
