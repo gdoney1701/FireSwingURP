@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Distortion_demo
+  m_Name: Shader Graphs_DistortionShader
   m_Shader: {fileID: -6465566751694194690, guid: 14852e6d58c236d4797236ce34245ca8, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -20,9 +20,5 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats: []
-    m_Colors:
-    - Vector2_E10C6B0F: {r: 21, g: 10, b: 0, a: 0}
-    - _DistortionDirection: {r: 0.14, g: 0, b: 0, a: 0}
-    - _DistortionSpeed: {r: 0.45, g: 0, b: 0, a: 0}
-    - _DistortionTile: {r: 1.2, g: 1, b: 0, a: 0}
+    m_Colors: []
   m_BuildTextureStacks: []
